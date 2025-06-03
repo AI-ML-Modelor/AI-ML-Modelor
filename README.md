@@ -10,7 +10,7 @@
 
 - 💬 Ask Me About **Whatsapp Bots**
 
-- <a href="https://t.me/Demonxcoder"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+- <a href="https://instagram.com/s__h__u__b__h__a_mm"><img title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 - ⚡ Fun Fact **I Think I Am Funny😂**
 
