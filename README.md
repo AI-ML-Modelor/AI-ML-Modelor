@@ -27,5 +27,5 @@
   </a>
 </div>
 
-  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=AL-ML-Modelor&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://AI-ML-Modelor.me)
+  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=AI-ML-Modelor&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://AI-ML-Modelor.me)
 
