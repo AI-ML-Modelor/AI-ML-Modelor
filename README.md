@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AI-ML-Modelor&label=Profile%20views&color=0e75b6&style=flat" alt="AI-ML-Modelor" /> </p>
 
-- 🔭 I’M Currently Working On **Telegram Bots**
+- 🔭 I’M Currently Working On **Automation,Telegram Bots,ETC**
+
+- 🤖 Aimming for **AI Engneer/Prompt Engneer**
 
 - 🌱 I’M Currently Learning **____**
 
